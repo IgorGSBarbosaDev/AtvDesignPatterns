@@ -26,5 +26,8 @@ bin/
 ### VS Code ###
 .vscode/
 
+# Orientações locais do agente
+/AGENTS.md
+
 ### Mac OS ###
 .DS_Store
