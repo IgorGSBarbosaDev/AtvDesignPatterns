@@ -30,7 +30,3 @@ A saída demonstra a identidade do Singleton, uma proposta básica criada pelo D
 
 5. **Que dificuldade de teste surgiria se todas as classes chamassem ConfiguracaoComercial.getInstancia() internamente?**
    A dependência ficaria escondida e seria difícil substituí-la por uma configuração controlada em cada teste. Passar os valores necessários explicitamente deixa claro o que cada classe usa e permite testar cenários diferentes sem depender de estado global.
-
-## Itens visuais da entrega
-
-A atividade também pede um diagrama UML e uma captura da saída completa. O AGENTS.md do repositório reserva a produção desses artefatos visuais para criação manual; eles não estão incluídos no ZIP gerado.
