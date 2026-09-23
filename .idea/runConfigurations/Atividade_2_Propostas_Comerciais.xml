@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" type="Application" factoryName="Application" name="Atividade 2 - Propostas Comerciais">
+    <option name="MAIN_CLASS_NAME" value="atv2.Aplicacao" />
+    <module name="AtvsDesignPatterns" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
